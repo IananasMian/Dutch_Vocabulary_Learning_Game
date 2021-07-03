@@ -42,9 +42,3 @@ for keyword in keyword_list:
         incorrect+=1
     
 print(f"Your score: {correct} correct & {incorrect} incorrect.")
-
-
-
-
-
-
